@@ -1,0 +1,36 @@
+<div vocab="http://news.schema.org/">
+    <p typeof="news" resource="http://jang.com.pk/index.html">
+        <em property="name">Jang news</em> is a newspaper of
+        <span property="author">jang group</span> and is  published
+        in the <span property="publisher" typeof="Organization">
+            <span property="location">Pakistan</span> by
+            <span property="name">Mir Shakil-ur-Rahman</span>
+        </span> established since<time property="datePublished">1939</time>.
+        The newspaper published daily from many major cities  of Pakistan daily among them are
+        <span property="organization" typeof="newspaper">
+            <span property="publisher" typeof="Organization">
+                <span property="name">JANG lahore</span>
+            </span> at <time property="timePublished">6:00 am</time>
+        </span> and
+        span property="organization" typeof="newspaper">
+            <span property="publisher" typeof="Organization">
+                <span property="name">JANG Karachi</span>
+            </span> at <time property="timePublished">6:00 am</time>
+        </span>
+	<span property="organization" typeof="newspaper">
+            <span property="publisher" typeof="Organization">
+                <span property="name">JANG Multan</span>
+            </span> at <time property="timePublished">6:00 am</time>
+        </span>
+	<span property="organization" typeof="newspaper">
+            <span property="publisher" typeof="Organization">
+                <span property="name">JANG Rawalpindi</span>
+            </span> at <time property="timePublished">6:00 am</time>
+        </span>
+	<span property="organization" typeof="newspaper">
+            <span property="publisher" typeof="Organization">
+                <span property="name">JANG Faisalabad</span>
+            </span> at <time property="timePublished">6:00 am</time>
+        </span>
+    </p>
+</div>
